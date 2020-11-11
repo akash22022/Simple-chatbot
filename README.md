@@ -1,2 +1,2 @@
 # Simple-chatbot
-simple chatbot using python chatterbot library based on NLTK
+Simple chatbot using python chatterbot library based on NLTK
